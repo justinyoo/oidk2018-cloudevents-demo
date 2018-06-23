@@ -1,1 +1,1 @@
-# oidk2018-cloudevents-demo
+# Open Infra Days Korea 2018 - CloudEvents Demo #
